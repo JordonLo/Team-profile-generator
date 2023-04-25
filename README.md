@@ -29,3 +29,9 @@
   
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at J.lor99@yahoo.com. You can find more of my work at github/JordonLo
+
+
+https://user-images.githubusercontent.com/113495052/234151229-6798af17-f513-4adb-b9e6-da55e0c68788.mp4
+
+![Screenshot 2023-04-24 181727](https://user-images.githubusercontent.com/113495052/234151237-3c5e68ab-be10-4fb8-a6e1-224cd3a3bf17.png)
+
